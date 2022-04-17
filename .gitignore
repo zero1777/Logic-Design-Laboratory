@@ -1,0 +1,5 @@
+*.doc
+*.docx
+*.pages
+.DS_Store
+*.zip
