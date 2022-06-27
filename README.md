@@ -77,3 +77,6 @@ NTHU CS. 10810 EECS207002 Logic Design Laboratory.
   - Be able to repeat playing after the song ends 
   - Supporting the 5-level volume control 
   - Be able to display the current note with 7 segment display
+
+## Final Project: Vending machine
+
